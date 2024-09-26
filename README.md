@@ -12,8 +12,8 @@ I am inspired by the **Op Art movement**, particularly the work of Bridget Riley
 - **Visual Impact**: High contrast and precise geometry create striking visuals.
 - **Innovation**: Pushes boundaries of traditional static art, offering fresh perspectives.
 
-![Bridget Riley Op Art](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bridget_Riley%2C_1964%2C_Current.jpg/800px-Bridget_Riley%2C_1964%2C_Current.jpg)
-![Op Art Example](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/OpArt-Kunst.jpg/800px-OpArt-Kunst.jpg)
+![Bridget Riley Op Art](https://upload.wikimedia.org/wikipedia/commons/0/0e/Bridget_Riley%2C_1967%2C_Movement_in_Squares.jpg)
+![Op Art Example](https://upload.wikimedia.org/wikipedia/commons/7/7b/Victor_Vasarely%2C_Cassiopeia.jpg)
 
 ## Part 2: Coding Technique Exploration
 
@@ -25,7 +25,7 @@ To replicate Op Art effects, I will use **generative art techniques** with the p
 - **Efficiency**: Automates intricate designs, saving time while maintaining quality.
 - **Flexibility**: Easily adjustable parameters allow for experimentation with different visual outcomes.
 
-![Generative Art in p5.js](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/P5.js_logo.svg/1200px-P5.js_logo.svg.png)
+![Generative Art in p5.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/P5.js_logo.svg/512px-P5.js_logo.svg.png)
 
 For an example implementation using p5.js, explore projects on [OpenProcessing](https://www.openprocessing.org/) or view tutorials on the [p5.js website](https://p5js.org/). Here is a link to an example code that demonstrates similar generative art techniques: [Example Code](https://editor.p5js.org/).
 
