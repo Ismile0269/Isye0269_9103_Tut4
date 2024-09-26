@@ -12,7 +12,7 @@ I am inspired by the **Op Art movement**, particularly the work of Bridget Riley
 - **Visual Impact**: High contrast and precise geometry create striking visuals.
 - **Innovation**: Pushes boundaries of traditional static art, offering fresh perspectives.
 
-![Bridget Riley Op Art](https://upload.wikimedia.org/wikipedia/commons/0/0e/Bridget_Riley%2C_1967%2C_Movement_in_Squares.jpg)
+![Bridget Riley Op Art](https://cdn.britannica.com/10/43710-050-89553A94/polyvinyl-acetate-paint-hardboard-Bridget-Riley-Tate-1963.jpg)
 ![Op Art Example](https://upload.wikimedia.org/wikipedia/commons/7/7b/Victor_Vasarely%2C_Cassiopeia.jpg)
 
 ## Part 2: Coding Technique Exploration
