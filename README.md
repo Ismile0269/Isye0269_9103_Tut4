@@ -25,7 +25,7 @@ To replicate Op Art effects, I will use **generative art techniques** with the p
 - **Efficiency**: Automates intricate designs, saving time while maintaining quality.
 - **Flexibility**: Easily adjustable parameters allow for experimentation with different visual outcomes.
 
-![Generative Art in p5.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/P5.js_logo.svg/512px-P5.js_logo.svg.png)
+![Generative Art in p5.js](https://tetunori.github.io/GenerativeArtWithMath-p5.js/pages/Ch5_FermatSpiral-FermatSpiral.html)
 
 For an example implementation using p5.js, explore projects on [OpenProcessing](https://www.openprocessing.org/) or view tutorials on the [p5.js website](https://p5js.org/). Here is a link to an example code that demonstrates similar generative art techniques: [Example Code](https://editor.p5js.org/).
 
